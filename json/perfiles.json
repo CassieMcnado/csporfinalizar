@@ -1,0 +1,106 @@
+{ 
+  "array":[
+        {
+          "user": "USUARIO1",
+          "name": "Dowon",
+    
+          "messagesHead": 6,
+          "iconImage": "https://i.pinimg.com/originals/37/89/d5/3789d5204c74804ea9ae56b70ca34ee2.jpg",
+    
+          "messagesLeft": 15,
+          "invitesLeft:": 2,
+          "eventsLeft": 1,
+    
+          "tweet": {
+            "Uno": "I try the best i can, but, procrastinity makes me fall again.",
+            "Dos": "Never say never, because ever we do new things, just look at me, ¡I'm a Peach!"
+          },
+    
+          "video": {
+            "Image": "shorturl.at/ewQRZ",
+            "Enlace" : "https://www.youtube.com/watch?v=BDSKTr9Ymn8"
+          },
+          
+          "profileName": "Yang Do Won",
+          "profileImage": "https://i.pinimg.com/originals/37/89/d5/3789d5204c74804ea9ae56b70ca34ee2.jpg",
+          "commentMiddle": 742,
+          "viewsMiddle:": 721,
+          "likesMiddle": 755,
+          
+          "events": {
+            "todayName": "Calls Jian",
+            "todayHour": "22:14 PM"
+          },
+    
+          "nextEvents": {
+            "one": "Jian's Home",
+            "oneDay": "23/08",
+            "oneHour": "10:00 AM",
+            "two": "Buy stg x Jian",
+            "twoHour": "13:00 PM",
+            "twoDay": "24/08",
+            "tres": "Ice rink",
+            "tresHour": "17:45 PM",
+            "tresDay": "25/08",
+            "four": "Jian's Bday",
+            "fourHour": "22:14 PM",
+            "fourDay": "26/08"
+          },
+          
+          "calendar":{
+            "dayName": "MONDAY"
+          }
+        },
+        {
+          "user":"USUARIO2",
+          "name": "Jian",
+    
+          "messagesHead": 4,
+          "iconImage": "https://i.pinimg.com/736x/86/8b/24/868b24208372c00cabda3df7b870a61d.jpg",
+    
+          "messagesLeft": 27,
+          "invitesLeft:": 6,
+          "eventsLeft": 5,
+    
+          "tweet": {
+            "Uno": "Binu, let's be new and be better day by day",
+            "Dos": "ICE, ICE, BABY, tripple axel completteddddd"
+          },
+    
+          "video": {
+            "Image": "shorturl.at/ilnxB",
+            "Enlace" : "https://www.youtube.com/watch?v=3z9sq9e5iu4"
+          },
+          
+          "profileName": "Ahn Ji An",
+          "profileImage": "https://i.pinimg.com/736x/86/8b/24/868b24208372c00cabda3df7b870a61d.jpg",
+          "commentMiddle": 975,
+          "viewsMiddle:": 369,
+          "likesMiddle": 999,
+          
+          "events": {
+            "todayName": "Ice rink Class",
+            "todayHour": "05:00 AM"
+          },
+    
+          "nextEvents": {
+            "one": "Dad's Dinner",
+            "oneDay": "23/08",
+            "oneHour": "10:00 AM",
+            "two": "Just school",
+            "twoHour": "09:00 AM",
+            "twoDay": "24/08",
+            "tres": "Ice rink",
+            "tresHour": "17:25 PM",
+            "tresDay": "25/08",
+            "four": "Bday Party",
+            "fourHour": "23:00 PM",
+            "fourDay": "26/08"
+          },
+          
+          "calendar":{
+            "dayName": "MONDAY"
+          }
+        }
+  ]
+}
